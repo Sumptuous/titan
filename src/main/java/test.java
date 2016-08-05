@@ -5,5 +5,6 @@ public class test {
     public static void main(String[] args) {
         int j;
         int s;
+        int t;
     }
 }
